@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : true,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",                 
+	"language":"ind",
+	"ownerNumber": "6281249086533",   //ganti nomer lu
+	"ownerNumberr": "621249086533",   //ganti nomer lu
+	"cr": "Paizོ ×፝֟͜×",                  //ganti nama lu
+	"ownername": "Paizོ ×፝֟͜×",        //ganti nama lu
+	"botname":"Paiz Bot",           //ganti nama lu
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  PaizBot  」\nCreated By Paizོ ×፝֟͜×"  //ganti
+}
